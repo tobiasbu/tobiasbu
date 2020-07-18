@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey! I'm Tobias. 👋
 
-<!--
-**tobiasbu/tobiasbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm software and game developer from Brazil. 
 
-Here are some ideas to get you started:
+I consider myself a generalist programmer working with different solutions and technologies over 7+ years of professional experience. My main interests are explore technical implementations of game engines, software architecture and develop interactive/graphical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🏢 Currently working remotely as Frontend developer at **magnetis**, São Paulo.
+- :pencil2: Working with **software architecture**, **programming patterns**, **performance and optimization**
+- :bike: Daily using `TypeScript`, `JavaScript` and `React Native`
+- 🧠 But I also know `C++`, `C#`, a bit of `Ruby` and `Game Development`
+- :green_heart: Interested in game engines and OpenGL stuff.
+- :sparkles: In free time I used to go to my magical [Purpurina](https://github.com/purpurina-engine) game editor project
+- 📫 Reach me in [Linkedin](https://www.linkedin.com/in/tobias-beise-ulrich-4295766b/)
