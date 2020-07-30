@@ -9,7 +9,7 @@ I consider myself a generalist programmer working with different solutions and t
 - 🏢 Currently working remotely as Frontend developer at **magnetis**, São Paulo.
 - :pencil2: Working with **software architecture**, **programming patterns**, **performance and optimization**
 - :bike: Daily using `TypeScript`, `JavaScript` and `React Native`
-- 🧠 But I also know `C++`, `C#`, a bit of `Ruby` and `Game Development`
+- :books: But I also know `C++`, `C#`, a bit of `Ruby` and `Game Development`
 - :green_heart: Interested in game engines and OpenGL stuff.
 - :sparkles: In free time I used to go to my magical [Purpurina](https://github.com/purpurina-engine) game editor project
 - 📫 Reach me in [Linkedin](https://www.linkedin.com/in/tobias-beise-ulrich-4295766b/)
