@@ -6,6 +6,7 @@ I consider myself a generalist programmer working with different solutions and t
 
 ---
 
+- :bulb: Learning `Rust` 
 - 🏢 Currently working remotely as Frontend developer at **magnetis**, São Paulo.
 - :pencil2: Working with **software architecture**, **design patterns**, **performance and optimization**
 - :bike: Daily using `TypeScript`, `JavaScript`, `Bash`, `Java` and `React Native`
