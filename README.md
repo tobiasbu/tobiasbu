@@ -7,7 +7,7 @@ I consider myself a generalist programmer working with different solutions and t
 ---
 
 - :bulb: Learning `Rust` 
-- 🏢 Currently working remotely as Frontend developer at **magnetis**, São Paulo.
+- 🏢 Currently working remotely as Senior Software Engineer at **magnetis**, São Paulo.
 - :pencil2: Working with **software architecture**, **design patterns**, **performance and optimization**
 - :bike: Daily using `TypeScript`, `JavaScript`, `Bash` and `React Native`
 - :books: But I also know `C++`, `C#`, a bit of `Ruby` and `Game Development`
