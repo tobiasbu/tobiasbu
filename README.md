@@ -6,11 +6,11 @@ I consider myself a generalist programmer working with different solutions and t
 
 ---
 
-- :bulb: Learning `Rust` 
 - 🏢 Currently working remotely as Senior Software Engineer at **magnetis**, São Paulo.
 - :pencil2: Working with **software architecture**, **design patterns**, **performance and optimization**
 - :bike: Daily using `TypeScript`, `JavaScript`, `Bash` and `React Native`
-- :books: But I also know `C++`, `C#`, a bit of `Ruby` and `Game Development`
+- :books: I also work with `C`, `C++`, `C#`, a bit of `Ruby` and `Game Development`
+- :bulb: Learning `Rust` 
 - :green_heart: Interested in game engines and OpenGL stuff.
 - :sparkles: In free time I used to go to my magical game editor project: [Purpurina](https://github.com/purpurina-engine)
 - 📫 Reach me in [Linkedin](https://www.linkedin.com/in/tobias-beise-ulrich-4295766b/)
