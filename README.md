@@ -12,5 +12,5 @@ I consider myself a generalist programmer working with different solutions and t
 - :books: I also work with `C`, `C++`, `C#`, a bit of `Ruby` and `Game Development`
 - :bulb: Learning `Rust` 
 - :green_heart: Interested in game engines and OpenGL stuff.
-- :sparkles: In free time I used to go to my magical game editor project: [Purpurina](https://github.com/purpurina-engine)
+- :sparkles: In free time I used to go to my magical game editor project: [chronotrix](https://github.com/chronotrix) (very slow steps)
 - 📫 Reach me in [Linkedin](https://www.linkedin.com/in/tobias-beise-ulrich-4295766b/)
